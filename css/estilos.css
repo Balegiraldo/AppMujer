@@ -1,0 +1,80 @@
+
+.fondohome{
+
+	background-image: url(images/fondo3.png)!important;
+	background-size: cover;
+	background-position: fixed;
+
+
+	
+}
+hr{
+	border: 5px dashed pink;
+}
+
+.cursiva{
+
+	font-style: italic;
+	font-weight: bold;
+}
+
+img{
+	width: 50%;
+	margin: 0 auto;
+}
+
+.contenido{
+	text-align: center;
+	justify-content: justify
+}
+
+p{
+	justify-content: justify;
+	padding-left: 2%;
+	padding-right: 2%;
+	font-family: 'Open Sans Condensed', sans-serif!important;
+}
+
+a, h1{
+	color: #708090!important;
+	font-family: 'Amatic SC', cursive!important;
+
+	/*font-family: 'Srisakdi', cursive;
+	font-family: 'Marck Script', cursive;*/
+}
+
+h3, h4{
+	color: #708090!important;
+	font-family: 'Marck Script', cursive!important;
+}
+
+a:hover{
+	color: white!important;
+}
+
+h2{
+	color: #DB7093!important;
+	font-family: 'Marck Script', cursive!important;
+}
+
+ul {
+  background: pink;
+  padding: 2%;
+  list-style-type: circle;
+}
+
+ul li{
+  background: #ffe5e5;
+  padding: 1%;
+  margin-left: 35px;
+}
+
+
+td{
+	width: 50%;
+
+}
+
+td>img{
+	width: 100%;
+}
